@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120825
 # 알고리즘: 기초
 # 작성자: 백관민
-# 작성일: 2026. 07. 20. 10:50:24
+# 작성일: 2026. 07. 20. 11:22:32
 
 def solution(my_string, n):
     return ''.join(char * n for char in my_string)
