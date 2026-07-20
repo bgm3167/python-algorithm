@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120817
 # 알고리즘: 기초
 # 작성자: 백관민
-# 작성일: 2026. 07. 20. 09:38:14
+# 작성일: 2026. 07. 20. 09:38:56
 
 import numpy as np
 
