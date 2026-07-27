@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120863
 # 알고리즘: 기초
 # 작성자: 백관민
-# 작성일: 2026. 07. 27. 09:12:45
+# 작성일: 2026. 07. 27. 09:34:26
 
 def solution(polynomial):
     x_sum = 0       # x항의 계수 합
