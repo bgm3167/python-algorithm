@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/181944
 # 알고리즘: 출력
 # 작성자: 백관민
-# 작성일: 2026. 07. 24. 10:01:41
+# 작성일: 2026. 07. 31. 08:51:09
 
 a = int(input())
 
