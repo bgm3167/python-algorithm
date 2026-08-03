@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120820
 # 알고리즘: 기초
 # 작성자: 백관민
-# 작성일: 2026. 07. 16. 17:35:38
+# 작성일: 2026. 08. 03. 12:30:17
 
 def solution(age):
     answer = 2022 - age +1
