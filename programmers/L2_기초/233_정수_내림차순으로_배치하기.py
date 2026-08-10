@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12933
 # 알고리즘: 문자열, 정렬
 # 작성자: 백관민
-# 작성일: 2026. 08. 10. 09:20:47
+# 작성일: 2026. 08. 10. 09:20:53
 
 def solution(n):
     ans = ''
