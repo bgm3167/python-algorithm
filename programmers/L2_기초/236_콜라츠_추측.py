@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12943
 # 알고리즘: 시뮬레이션, 반복문
 # 작성자: 백관민
-# 작성일: 2026. 08. 10. 09:34:22
+# 작성일: 2026. 08. 10. 09:36:23
 
 def solution(num):
     n = 0
